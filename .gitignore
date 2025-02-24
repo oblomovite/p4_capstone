@@ -1,0 +1,12 @@
+# data
+data
+
+# macOS
+.DS_Store
+
+# ipython
+.ipynb_checkpoints
+
+# vscode
+.vscode
+
