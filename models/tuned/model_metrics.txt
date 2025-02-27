@@ -1,5 +1,0 @@
-Loss: 0.32
-Accuracy: 0.88
-Precision: 0.93
-Recall: 0.86
-AUC: 0.94
